@@ -12,6 +12,8 @@
 <a href="https://developer.android.com/guide/">Android Developer Guide</a><p><p>
 <a href="https://developer.android.com/studio/intro/">Android Studio User Guide</a>
 
+<h3>#Assets</h3>
+<a href="https://romannurik.github.io/AndroidAssetStudio/index.html">Android Asset Studio</a>
 
 <h3>#Android App Tutorials</h3>
 <a href="https://www.androidauthority.com/lets-build-a-simple-text-editor-for-android-773774/">Simple Notepad App</a>
