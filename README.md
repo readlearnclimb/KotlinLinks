@@ -2,7 +2,7 @@
 <a href="http://kotlin-quick-reference.com/">Kotlin Quick Reference</a><p><p>
 <a href="https://github.com/IvanMwiruki/30-seconds-of-kotlin/blob/master/README.md">  30 Seconds of Kotlin : Code Snippets</a><p><p>
 <a href="https://alvinalexander.com/kotlin">Alvin Alexander - Kotlin</a><p><p>
-
+<a href="https://github.com/KotlinBy/awesome-kotlin">Awesome Kotlin</a>
 
 <h3>#Kotlin - Primary Resources</h3>
 <a href="https://kotlinlang.org/docs/reference/basic-syntax.html">Language Documentation</a><p><p>
